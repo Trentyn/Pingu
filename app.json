@@ -14,18 +14,6 @@
             "description": "",
             "value": ""
         },
-        "BOT_STATUS": {
-            "description": "",
-            "value": ""
-        },
-        "BOT_ACTIVITY_TYPE": {
-            "description": "",
-            "value": ""
-        },
-        "BOT_ACTIVITY": {
-            "description": "",
-            "value": ""
-        },
         "YOUTUBE_API_KEY": {
             "description": "",
             "value": ""
