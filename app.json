@@ -2,9 +2,21 @@
     "name": "xdxd",
     "description": "xcdf",
     "env": {
-        "TOKEN": {
-            "description": "x",
-            "required": true
+        "DISCORD_TOKEN": {
+            "description": "token",
+            "value": ""
+        },
+        "SPOTIFY_CLIENT_ID": {
+            "description": "",
+            "value": ""
+        },
+        "SPOTIFY_CLIENT_SECRET": {
+            "description": "",
+            "value": ""
+        },
+        "YOUTUBE_API_KEY": {
+            "description": "",
+            "value": ""
         }
     },
     "buildpacks": [
